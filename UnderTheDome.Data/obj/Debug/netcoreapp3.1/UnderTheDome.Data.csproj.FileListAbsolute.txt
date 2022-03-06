@@ -1,0 +1,10 @@
+C:\Users\Bluma\source\repos\UnderTheDomeAPI\UnderTheDome.Data\bin\Debug\netcoreapp3.1\UnderTheDome.Data.deps.json
+C:\Users\Bluma\source\repos\UnderTheDomeAPI\UnderTheDome.Data\bin\Debug\netcoreapp3.1\UnderTheDome.Data.dll
+C:\Users\Bluma\source\repos\UnderTheDomeAPI\UnderTheDome.Data\bin\Debug\netcoreapp3.1\UnderTheDome.Data.pdb
+C:\Users\Bluma\source\repos\UnderTheDomeAPI\UnderTheDome.Data\obj\Debug\netcoreapp3.1\UnderTheDome.Data.csproj.AssemblyReference.cache
+C:\Users\Bluma\source\repos\UnderTheDomeAPI\UnderTheDome.Data\obj\Debug\netcoreapp3.1\UnderTheDome.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bluma\source\repos\UnderTheDomeAPI\UnderTheDome.Data\obj\Debug\netcoreapp3.1\UnderTheDome.Data.AssemblyInfoInputs.cache
+C:\Users\Bluma\source\repos\UnderTheDomeAPI\UnderTheDome.Data\obj\Debug\netcoreapp3.1\UnderTheDome.Data.AssemblyInfo.cs
+C:\Users\Bluma\source\repos\UnderTheDomeAPI\UnderTheDome.Data\obj\Debug\netcoreapp3.1\UnderTheDome.Data.csproj.CoreCompileInputs.cache
+C:\Users\Bluma\source\repos\UnderTheDomeAPI\UnderTheDome.Data\obj\Debug\netcoreapp3.1\UnderTheDome.Data.dll
+C:\Users\Bluma\source\repos\UnderTheDomeAPI\UnderTheDome.Data\obj\Debug\netcoreapp3.1\UnderTheDome.Data.pdb
